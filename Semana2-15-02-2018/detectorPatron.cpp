@@ -254,9 +254,9 @@ Point encontrarPuntoId(vector<Anillo> patronAnillos, int pos);
 
 int main()
 {
-	//VideoCapture cap("2018/calibration_ps3eyecam.avi");
+	VideoCapture cap("2018/calibration_ps3eyecam.avi");
 	//VideoCapture cap("2018/calibration_mslifecam.avi");
-	VideoCapture cap("2018/realsense_RGB.avi");
+	//VideoCapture cap("2018/realsense_RGB.avi");
 
 	//VideoCapture cap("2017/PadronAnillos_01.avi");
 	//VideoCapture cap("2017/PadronCirculos_01.avi");
